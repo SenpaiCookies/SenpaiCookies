@@ -1,16 +1,31 @@
-## Hi there 👋
+<h2 align="left">永遠とは…停滞ではない。それは絶え間ない内省と啓蒙のプロセスです。</h2>
 
-<!--
-**SenpaiCookies/SenpaiCookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SenpaiCookies&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img align="right" height="150" src="https://i.ibb.co/4RXGpYz3/44d3e4885b215238e1ca71c925ceea52.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SenpaiCookies/SenpaiCookies/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
